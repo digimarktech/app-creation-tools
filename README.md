@@ -1,5 +1,20 @@
 # Tools and Resources Used To Create an App
 
+1. Develop your app idea and generate app mission statement (Who, What, Why).
+2. Go through the app store and check for similiar apps.
+3. Use design resources to look for app design inspiration.
+4. Determine the platforms you want to target.
+5. Develop a mockup or design.
+6. Start the process of writing the code
+  - Determine which UI framework you want to use. UIKit or SwiftUI?
+  - Determine if you need a backend or server component to your app.
+  - What devices do you plan to support?
+  - Make sure accessibility is checked.
+7. Upload to App Store Connect Portal.
+8. Deploy alpha or beta version of app using TestFlight
+9. Submit your App for App Review
+10. Release to the public!
+
 ## Development Tools
 
 - [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12) - Xcode is the primary IDE (integrated development environment) used to create apps for the apple ecosystem. This includes iOS, macOS, tvOS, and watchOS. Xcode is created and maintained by Apple and is free in the mac app store.
@@ -45,3 +60,13 @@
 - [SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui)
 
 - [How To Learn Swift](https://lickability.com/blog/how-to-learn-swift/)
+
+## Apple Resources
+
+- [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
+
+- [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+
+- [Developer Portal](https://developer.apple.com)
+
+- [App Store Connect Portal](https://appstoreconnect.apple.com/login)
